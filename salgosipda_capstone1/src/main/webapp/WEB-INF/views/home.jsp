@@ -251,7 +251,6 @@
 														    var imgres="./resources/img/"+Estates[i].id+".jpg";
 															
 															
-															
 															detailview += Estates[i].id;
 															detailview += "<br>";
 															detailview += Estates[i].name;
@@ -268,11 +267,6 @@
 															
 															
 															detailviews.push(detailview);
-															
-															
-															
-															
-															
 															
 															
 
